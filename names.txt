@@ -1,1 +1,3 @@
 echo > filename.type
+
+git checkout master
